@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a058c90f-4528-4812-b8e9-911dc85f2979" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Code source/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Cours 15 Docker.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/src/main/resources/META-INF/maven/archetype.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/src/main/resources/archetype-resources/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/src/main/resources/archetype-resources/src/main/java/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/Generecite/src/main/resources/archetype-resources/src/test/java/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/main/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dao/AppRoleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dao/AppUserImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dao/IAppRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dao/IAppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dao/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dao/RepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dto/AppRoleDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/dto/AppUserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/entities/AppRole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/entities/AppUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/hibernateutil/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/service/AppRoleDtoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/src/main/java/sn/isi/service/IAppRoleDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/META-INF/maven/sn.isi/ParcinfojpaHibernateMaven/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/META-INF/maven/sn.isi/ParcinfojpaHibernateMaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/main/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dao/AppRoleImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dao/AppUserImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dao/IAppRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dao/IAppUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dao/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dao/RepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dto/AppRoleDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/dto/AppUserDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/entities/AppRole.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/entities/AppUser.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/hibernateutil/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/service/AppRoleDtoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/ParcinfojpaHibernateMaven/target/classes/sn/isi/service/IAppRoleDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.settings/org.eclipse.wst.common.component.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/.tern-project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/build/classes/sn/isi/controller/DeconnexionServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/build/classes/sn/isi/controller/FirstServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/build/classes/sn/isi/controller/SecondServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/build/classes/sn/isi/controller/ThirdServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/build/classes/sn/isi/filter/PrivateFilter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/java/sn/isi/controller/DeconnexionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/java/sn/isi/controller/FirstServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/java/sn/isi/controller/SecondServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/java/sn/isi/controller/ThirdServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/java/sn/isi/filter/PrivateFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/WEB-INF/first.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/WEB-INF/second.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/WEB-INF/third.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Code source/filter/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Demo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteSystemsTempFiles/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RemoteSystemsTempFiles/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/.settings/org.eclipse.wst.server.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v10.0 Server at localhost-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v10.0 Server at localhost-config/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v10.0 Server at localhost-config/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v10.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v10.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v10.0 Server at localhost-config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/catalina.policy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/catalina.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/server.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/tomcat-users.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/Tomcat v9.0 Server at localhost-config/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Servers/WildFly 23.server" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/build/classes/com/groupeisi/consommateur/Consommateur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/java/com/groupeisi/consommateur/Consommateur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-broker-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-client-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-console-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-jaas-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-kahadb-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-openwire-legacy-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-protobuf-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-rar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-spring-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/activemq-web-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/camel/activemq-camel-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/camel/camel-core-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/camel/camel-jms-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/camel/camel-spring-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/extra/mqtt-client-1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/hawtbuf-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/jaxb-api-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/jaxb-core-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/jcl-over-slf4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activeio-core-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-amqp-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-http-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-jdbc-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-jms-pool-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-leveldb-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-log4j-appender-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-mqtt-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-partition-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-pool-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-runtime-config-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-shiro-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/activemq-stomp-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-dbcp2-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-net-3.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/commons-pool2-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/geronimo-j2ee-connector_1.5_spec-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/guava-31.0.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/hawtbuf-proto-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-scala-2.11-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-transport-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/hawtjni-runtime-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/httpcore-4.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/insight-log-core-1.2.0.Beta4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/insight-log4j-1.2.0.Beta4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jackson-annotations-2.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jackson-core-2.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jackson-databind-2.13.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jasypt-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jasypt-spring4-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jaxb2-basics-runtime-0.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jettison-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/jmdns-3.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/leveldb-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/leveldb-api-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/leveldbjni-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/org.apache.servicemix.bundles.josql-1.5_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/org.linkedin.util-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/org.linkedin.zookeeper-impl-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/proton-j-0.33.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/reload4j-1.2.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/scala-library-2.11.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/shiro-core-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/shiro-spring-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/slf4j-reload4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/snappy-0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/snappy-java-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-aop-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-beans-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-context-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-core-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-expression-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-jms-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-oxm-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/spring-tx-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/velocity-engine-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/xbean-spring-4.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/xpp3-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/xstream-1.4.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/optional/zookeeper-3.4.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/apache-el-8.5.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/apache-jsp-8.5.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/apache-jsp-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/apache-jstl-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/asm-9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/ecj-3.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/geronimo-annotation_1.0_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/javax.security.auth.message-1.0.0.v201108011116.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jdom2-2.0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-annotations-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-continuation-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-http-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-io-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-plus-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-rewrite-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-security-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-server-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-servlet-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-util-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-webapp-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jetty-xml-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/jolokia-core-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/rome-1.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/rome-utils-1.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/spring-web-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/spring-webmvc-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/tomcat-servlet-api-9.0.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/tomcat-websocket-api-9.0.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/websocket-api-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/websocket-common-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/websocket-server-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/lib/web/websocket-servlet-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../consommateur/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloear/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloear/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloear/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloear/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/groupeisi/metier/HelloImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/classes/com/groupeisi/metier/IHello.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejbModule/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejbModule/com/groupeisi/metier/HelloImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejbModule/com/groupeisi/metier/IHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/build/classes/com/groupeisi/controller/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/src/main/java/com/groupeisi/controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../helloweb/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/Error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/byte-buddy-1.8.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/classmate-1.3.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/dom4j-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/hibernate-commons-annotations-5.0.4.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/hibernate-core-5.3.7.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/jandex-2.0.5.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/javassist-3.23.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/javax.persistence-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/jboss-logging-3.3.2.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/jsp-api-2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/mysql-connector-java-8.0.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/user-form.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/WebContent/user-list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/sql/create-user-table.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/src/net/javaguides/usermanagement/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/src/net/javaguides/usermanagement/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/src/net/javaguides/usermanagement/utl/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jsp-servlet-hibernate-mysql-tutorial-master/src/net/javaguides/usermanagement/web/UserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/build/classes/com/groupeisi/microservice/controller/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/src/main/java/com/groupeisi/microservice/controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microservice/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.m2e.wtp.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/java/com/groupeisi/microserviceweb/controller/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/java/com/groupeisi/microserviceweb/controller/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/java/com/groupeisi/microserviceweb/controller/MatieresServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/java/com/groupeisi/microserviceweb/controller/ProfesseurServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/java/com/groupeisi/microserviceweb/entities/Matieres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/java/com/groupeisi/microserviceweb/entities/Professeurs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/webapp/WEB-INF/views/matieres/all.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/webapp/WEB-INF/views/professeurs/all.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/classes/com/groupeisi/microserviceweb/controller/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/classes/com/groupeisi/microserviceweb/controller/LogoutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/classes/com/groupeisi/microserviceweb/controller/MatieresServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/classes/com/groupeisi/microserviceweb/controller/ProfesseurServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/classes/com/groupeisi/microserviceweb/entities/Matieres.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/classes/com/groupeisi/microserviceweb/entities/Professeurs.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/m2e-wtp/web-resources/META-INF/maven/com.groupeisi/microservice/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/m2e-wtp/web-resources/META-INF/maven/com.groupeisi/microservice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../microserviceweb/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/build/classes/com/groupeisi/producteur/Producteur.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/java/com/groupeisi/producteur/Producteur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-broker-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-client-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-console-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-jaas-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-kahadb-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-openwire-legacy-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-protobuf-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-rar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-spring-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/activemq-web-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/camel/activemq-camel-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/camel/camel-core-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/camel/camel-jms-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/camel/camel-spring-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/extra/mqtt-client-1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/hawtbuf-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/jaxb-api-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/jaxb-core-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/jcl-over-slf4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activeio-core-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-amqp-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-http-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-jdbc-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-jms-pool-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-leveldb-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-log4j-appender-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-mqtt-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-partition-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-pool-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-runtime-config-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-shiro-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/activemq-stomp-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-dbcp2-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-net-3.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/commons-pool2-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/geronimo-j2ee-connector_1.5_spec-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/guava-31.0.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/hawtbuf-proto-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-scala-2.11-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-transport-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/hawtjni-runtime-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/httpcore-4.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/insight-log-core-1.2.0.Beta4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/insight-log4j-1.2.0.Beta4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jackson-annotations-2.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jackson-core-2.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jackson-databind-2.13.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jasypt-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jasypt-spring4-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jaxb2-basics-runtime-0.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jettison-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/jmdns-3.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/leveldb-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/leveldb-api-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/leveldbjni-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/org.apache.servicemix.bundles.josql-1.5_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/org.linkedin.util-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/org.linkedin.zookeeper-impl-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/proton-j-0.33.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/reload4j-1.2.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/scala-library-2.11.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/shiro-core-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/shiro-spring-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/slf4j-reload4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/snappy-0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/snappy-java-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-aop-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-beans-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-context-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-core-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-expression-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-jms-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-oxm-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/spring-tx-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/velocity-engine-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/xbean-spring-4.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/xpp3-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/xstream-1.4.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/optional/zookeeper-3.4.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/apache-el-8.5.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/apache-jsp-8.5.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/apache-jsp-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/apache-jstl-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/asm-9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/ecj-3.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/geronimo-annotation_1.0_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/javax.security.auth.message-1.0.0.v201108011116.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jdom2-2.0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-annotations-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-continuation-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-http-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-io-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-plus-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-rewrite-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-security-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-server-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-servlet-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-util-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-webapp-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jetty-xml-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/jolokia-core-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/rome-1.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/rome-utils-1.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/spring-web-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/spring-webmvc-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/tomcat-servlet-api-9.0.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/tomcat-websocket-api-9.0.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/websocket-api-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/websocket-common-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/websocket-server-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/lib/web/websocket-servlet-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../producteur/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/org.eclipse.m2e.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/target/classes/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/target/classes/META-INF/maven/com.groupeisi/securiteweb/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securiteweb/target/classes/META-INF/maven/com.groupeisi/securiteweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/4/0/40d2dfe023c33325b69b32955f40be103cb1163f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/4/1/412e789e64bf1c4a0d0ffc11fe0db7b9ebd928de" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/5/1/517d03d5648db45b641838cf50934f7e0850cfec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/7/5/750db41a11dd91dc1cc07afa861120f658ffc722" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/7/e/7e1557f49114e0e19a5dab3d7d7628c839759ed2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/8/7/87fe6eadbeeee9cc11d5244df1d4b6d3c1efbd69" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/8/f/8f6a1bc67890830ff66a3e2d517b37699bf64b55" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/a/8/a85dd5f20432a1314152a52c0366dfd3b896fd2b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/a/d/ad70f8e4cfb02a0fa029d53d4d7a7666eadb9725" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/a/f/af413b9d0ee99899d26a28145f1ab35dfd674a0d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/b/2/b2ec0dda92cad2ab999c915311dca10f637cc36b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/b/c/bc3dad1c987c584713dec735de9c4e2af7f0df04" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/c/8/c8d622ddf9480cc19d47a4b65dfa662612de5f8a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/c/a/ca02c8cf34929ca6d38c5c154aec62dba66dee80" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/d/a/da2806dd241f89848b6cc3422317dad3f473b1aa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/f/3/f30a43fa175b2612af8fb5bd9afd55240566b7ba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/f/3/f38e97c87f0856d0cc74eec01fdf5a9580429a4a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/.settings/org.eclipse.wst.validation.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/config/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dao/AppCompteImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dao/AppDroitImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dao/IAppCompte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dao/IAppDroit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dao/Repository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dao/RepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dto/AppCompteDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/dto/AppDroitDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/entities/AppCompte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/entities/AppDroit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/servlet/CompteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/servlet/DroitServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/servlet/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/java/com/groupeisi/securiteweb/servlet/LogoutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/webapp/WEB-INF/views/comptes/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/webapp/WEB-INF/views/comptes/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/webapp/WEB-INF/views/droits/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/webapp/WEB-INF/views/droits/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/config/HibernateUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dao/AppCompteImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dao/AppDroitImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dao/IAppCompte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dao/IAppDroit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dao/Repository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dao/RepositoryImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dto/AppCompteDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/dto/AppDroitDto.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/entities/AppCompte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/entities/AppDroit.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/servlet/CompteServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/servlet/DroitServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/servlet/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/classes/com/groupeisi/securiteweb/servlet/LogoutServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/m2e-wtp/web-resources/META-INF/maven/com.groupeisi/securiteweb/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../securitewebjava/target/m2e-wtp/web-resources/META-INF/maven/com.groupeisi/securiteweb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/.jsdtscope" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/org.eclipse.wst.common.component" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/org.eclipse.wst.common.project.facet.core.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/build/classes/com/groupeisi/receiver/MessageReceiver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/build/classes/com/groupeisi/sender/MessageSender.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/java/com/groupeisi/receiver/MessageReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/java/com/groupeisi/sender/MessageSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-broker-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-client-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-console-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-jaas-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-kahadb-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-openwire-legacy-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-protobuf-1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-rar.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-spring-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/activemq-web-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/camel/activemq-camel-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/camel/camel-core-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/camel/camel-jms-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/camel/camel-spring-2.25.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/extra/mqtt-client-1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/geronimo-jms_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/hawtbuf-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/istack-commons-runtime-3.0.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/javax.activation-api-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/jaxb-api-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/jaxb-core-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/jaxb-runtime-2.2.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/jcl-over-slf4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activeio-core-3.1.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-amqp-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-http-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-jdbc-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-jms-pool-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-leveldb-store-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-log4j-appender-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-mqtt-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-partition-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-pool-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-runtime-config-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-shiro-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/activemq-stomp-5.16.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-beanutils-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-collections-3.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-dbcp2-2.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-io-2.11.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-lang3-3.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-net-3.8.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/commons-pool2-2.11.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/geronimo-j2ee-connector_1.5_spec-2.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/guava-31.0.1-jre.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/hawtbuf-proto-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-scala-2.11-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/hawtdispatch-transport-1.22.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/hawtjni-runtime-1.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/httpclient-4.5.13.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/httpcore-4.4.15.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/insight-log-core-1.2.0.Beta4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/insight-log4j-1.2.0.Beta4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jackson-annotations-2.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jackson-core-2.13.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jackson-databind-2.13.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jasypt-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jasypt-spring4-1.9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jaxb2-basics-runtime-0.12.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jettison-1.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/jmdns-3.4.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/leveldb-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/leveldb-api-0.9.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/leveldbjni-1.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/org.apache.servicemix.bundles.josql-1.5_5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/org.linkedin.util-core-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/org.linkedin.zookeeper-impl-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/proton-j-0.33.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/reload4j-1.2.20.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/scala-library-2.11.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/shiro-core-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/shiro-spring-1.9.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/slf4j-reload4j-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/snappy-0.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/snappy-java-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-aop-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-beans-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-context-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-core-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-expression-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-jms-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-oxm-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/spring-tx-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/velocity-engine-core-2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/xbean-spring-4.21.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/xpp3-1.1.4c.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/xstream-1.4.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/optional/zookeeper-3.4.14.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/slf4j-api-1.7.36.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/apache-el-8.5.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/apache-jsp-8.5.70.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/apache-jsp-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/apache-jstl-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/asm-9.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/ecj-3.17.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/geronimo-annotation_1.0_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/javax.security.auth.message-1.0.0.v201108011116.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jdom2-2.0.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-annotations-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-continuation-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-http-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-io-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-plus-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-rewrite-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-security-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-server-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-servlet-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-util-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-webapp-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jetty-xml-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/jolokia-core-1.6.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/json-simple-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/rome-1.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/rome-utils-1.18.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/spring-web-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/spring-webmvc-4.3.30.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/taglibs-standard-impl-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/taglibs-standard-spec-1.2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/tomcat-servlet-api-9.0.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/tomcat-websocket-api-9.0.58.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/websocket-api-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/websocket-common-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/websocket-server-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/lib/web/websocket-servlet-9.4.46.v20220331.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testMessage/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/build/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/CoursesDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/CoursesDAOLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/InscriptionDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/InscriptionDAOLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/StudentDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/StudentDAOLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/YearDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/dao/YearDAOLocal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Courses.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Courses.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Inscription.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Inscription.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Year.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/entities/Year.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/build/classes/com/groupeisi/test/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/ejbModule/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/CoursesDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/CoursesDAOLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/InscriptionDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/InscriptionDAOLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/StudentDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/StudentDAOLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/YearDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/dao/YearDAOLocal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Inscription.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Inscription.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Year.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/entities/Year.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolEJB/ejbModule/com/groupeisi/test/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/.settings/org.eclipse.core.resources.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/CoursesServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/CoursesServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/LoginServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/LoginServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/LogoutServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/LogoutServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/StudentServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/build/classes/com/groupeisi/controller/StudentServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/CoursesServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/CoursesServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/LoginServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/LoginServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/LogoutServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/LogoutServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/StudentServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/src/main/java/com/groupeisi/controller/StudentServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../schoolWeb/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../schoolWeb/src/main/webapp/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2M41DhcMxzKX7ZremKe8pRYTwEn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/traore/eclipse-workspace/Spring/scolarite"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a058c90f-4528-4812-b8e9-911dc85f2979" name="Changes" comment="" />
+      <created>1677011928496</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677011928496</updated>
+    </task>
+    <servers />
+  </component>
+</project>
